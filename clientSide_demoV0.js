@@ -42,7 +42,7 @@ ffxx_resumeButton_ffxx.addEventListener('click', function() {
     ffxx_resumeButton_ffxx.style.display = 'none';
     ffxx_hideButton_ffxx.classList.add('ffxx_appear_ffxx');
     ffxx_clsButton_ffxx.classList.add('ffxx_appear_ffxx');
-    ffxx_resume_ffxx.classList.remove('ffxx_appear_ffxx');
+    ffxx_resumeButton_ffxx.classList.remove('ffxx_appear_ffxx');
     document.body.style.overflow = 'hidden';
 });
 
