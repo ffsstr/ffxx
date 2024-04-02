@@ -34,9 +34,9 @@
 }
 
 .ffxx_chatBtn_ffxx {
-    height: 50px;
-    width: 50px;
-    font-size: 1.3rem;
+    height: 60px;
+    width: 60px;
+    font-size: 1.5rem;
     border-radius: 30px;
     border: none;
     background-color: #283E51;
@@ -49,9 +49,9 @@
 }
 
 .ffxx_resumeBtn_ffxx {
-    height: 50px;
-    width: 50px;
-    font-size: 1.3rem;
+    height: 60px;
+    width: 60px;
+    font-size: 1.5rem;
     border-radius: 30px;
     border: none;
     background-color: #4B79A1;
@@ -65,8 +65,8 @@
 }
 
 .ffxx_hideBtn_ffxx {
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     border-radius: 30px;
     border: 2px #0B8CFC solid;
     background-color: #283E51;
@@ -74,15 +74,15 @@
     z-index: 9999;
     position: fixed;
     bottom: 25px;
-    right: 70px;
+    right: 80px;
     transition: right 5s;
     cursor: pointer;
     display: none;
 }
 
 .ffxx_clsBtn_ffxx {
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     border-radius: 30px;
     border: 2px #0B8CFC solid;
     background-color: #283E51;
